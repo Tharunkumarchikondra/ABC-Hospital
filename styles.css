@@ -1,0 +1,40 @@
+.heads {
+    background-color: blue;
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+    color: white;
+
+}
+
+.pages a {
+    color: white;
+    text-decoration: none;
+    font-size: medium;
+}
+
+h1 {
+    color: blue;
+}
+
+tr {
+    font-weight: bold;
+}
+
+.img_middle {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+
+.submit_button {
+    text-align: center;
+    vertical-align: middle;
+    background-color: blue;
+    color: white;
+    align-items: center;
+}
